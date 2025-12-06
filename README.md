@@ -1,6 +1,6 @@
 <div align="center">
   
-![Advent of Code](AOC.jpg)
+![Advent of Code](Pic.jpg)
 
 # 🎄 Advent of Code 2025 🎄
 
